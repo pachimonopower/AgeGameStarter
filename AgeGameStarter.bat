@@ -10,12 +10,15 @@ echo off
 
 REM ■Define Game FileName
 set mavFileName=マブラヴ14.exe
+set mavGameName=マブラヴLatest
 set mavRioFileName=muvluv14
 
 set mavaltFileName=マブラヴオルタネイティヴ14.exe
+set mavaltGameName=マブラヴオルタネイティヴLatest
 set mavaltRioFileName=alternative14
 
 set kiminozoFileName=君が望む永遠LE.exe
+set kiminozoGameName=君が望む永遠LE
 set kiminozoRioFileName=君望LE
 
 REM ■Get Current Directory
@@ -27,21 +30,21 @@ REM ■Setting Game File
 
 REM マブラヴ14
 if exist %mavFileName% (
-    set GameName=%mavFileName%
+    set GameName=%mavGameName%
     set RioFile=%mavRioFileName%
     goto MAIN_PROC
 )
 
 REM マブラヴオルタネイティヴ14
 if exist %mavaltFileName% (
-    set GameName=%mavaltFileName%
+    set GameName=%mavaltGameName%
     set RioFile=%mavaltRioFileName%
     goto MAIN_PROC
 )
 
 REM 君が望む永遠LE
 if exist %kiminozoFileName% (
-    set GameName=%kiminozoFileName%
+    set GameName=%kiminozoGameName%
     set RioFile=%kiminozoRioFileName%
     goto MAIN_PROC
 )
