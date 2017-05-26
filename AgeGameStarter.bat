@@ -1,7 +1,7 @@
 rem ###############################################################################################
 rem  Age Game Starter Bat.
 rem  
-rem  version 1.0.0
+rem  version 1.0.1
 rem  How to Use. Please read me.
 rem  Repository "https://github.com/pachimonopower/AgeGameStarter"
 rem ###############################################################################################
