@@ -1,5 +1,5 @@
 ## Name
-Age Game Starter
+Age Game Starter  
 version 1.0.0
 
 ## Overview
@@ -20,6 +20,6 @@ run batfile. (changing registory)
 if successfly lunch game.
 
 ## Supported games
-マブラヴ (Windows7 Supported)
-マブラヴオルタナティブ  (Windows7 Supported)
-君が望む永遠LE
+マブラヴ (Windows7 Supported)  
+マブラヴオルタナティブ  (Windows7 Supported)  
+君が望む永遠LE  
