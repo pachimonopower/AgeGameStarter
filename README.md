@@ -18,3 +18,8 @@ HKEY_CURRENT_USER\SOFTWARE\relic UGP Applications\age\マブラヴLatest
 this game current dir in this starter batfile.  
 run batfile. (changing registory)  
 if successfly lunch game.
+
+## Supported games
+マブラヴ (Windows7 Supported)
+マブラヴオルタナティブ  (Windows7 Supported)
+君が望む永遠LE
