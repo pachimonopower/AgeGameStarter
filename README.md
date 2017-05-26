@@ -1,6 +1,6 @@
 ## Name
 Age Game Starter  
-version 1.0.0
+version 1.0.1
 
 ## Overview
 Starting Game for Age Software.
